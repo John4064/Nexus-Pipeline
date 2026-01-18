@@ -67,7 +67,5 @@ class uggscrape {
 //            println()
 //        }
 //        firstSection!!.children().forEach{ tr -> println(tr) }
-        exitProcess(0);
-
     }
 }

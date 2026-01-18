@@ -76,6 +76,8 @@
 			<artifactId>kotlin-test-junit5</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+<!--		IN PROGRESS-->
 		<!-- https://mvnrepository.com/artifact/com.fleeksoft.ksoup/ksoup -->
 		<dependency>
 			<groupId>com.fleeksoft.ksoup</groupId>
@@ -88,6 +90,26 @@
 			<artifactId>jsoup</artifactId>
 			<version>1.18.1</version>
 		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp -->
+		<dependency>
+			<groupId>com.squareup.okhttp3</groupId>
+			<artifactId>okhttp</artifactId>
+			<version>5.0.0-alpha.14</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.squareup.moshi/moshi -->
+		<dependency>
+			<groupId>com.squareup.moshi</groupId>
+			<artifactId>moshi</artifactId>
+			<version>1.15.2</version>
+			<scope>runtime</scope>
+		</dependency>
+
+
+
+
+
 
 
 	</dependencies>
